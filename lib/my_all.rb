@@ -7,3 +7,5 @@ block_return_value << yield(collection[i])
 i = i + 1 
 end
 end
+
+block_return_value.include?(false)
