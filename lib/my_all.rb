@@ -14,4 +14,3 @@ block_return_value.include?(false)
  else
    true
  end
-end
